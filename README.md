@@ -68,6 +68,8 @@ This project solves the above by:
 ---
 ## 📸 Dashboards
 
-[](Dashboard1.png)
+![image](Dashboard1.png)
+![image](Dashboard2.png)
+![image](Dashboard3.png)
 
 
