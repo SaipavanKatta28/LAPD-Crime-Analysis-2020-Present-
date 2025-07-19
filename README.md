@@ -68,6 +68,6 @@ This project solves the above by:
 ---
 ## 📸 Dashboards
 
-
+[](Dashboard1.png)
 
 
