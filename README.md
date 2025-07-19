@@ -2,6 +2,7 @@
 
 **Tools:** Power BI · Excel Power Query · Power BI Data Modeling · DAX · M Language  
 **Data Size:** 1.2M+ Records | 6 Years of Historical Crime Data
+👉 [Click here to explore the interactive LAPD Crime Analytics Dashboard (2020–2025)](https://app.powerbi.com/reportEmbed?reportId=6c684d33-bbc4-4622-b88d-70d22181131f&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
 ---
 
